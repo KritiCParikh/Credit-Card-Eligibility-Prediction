@@ -1,6 +1,6 @@
 # Credit Card Eligibility Prediction
 
-A machine learning project to automate credit card eligibility decisions using applicants' demographic, financial, and employment data. Taken as a challenge to complete within 120 minutes as a bae model and tune further later.
+A machine learning project aimed at automating credit card eligibility decisions using applicants' demographic, financial, and employment data. Completed as a 120-minute challenge to build a base model, with plans for further tuning.
 
 ---
 
@@ -62,14 +62,12 @@ Files:
 
 ## Feature Importance
 
-![Feature Importance](https://github.com/KritiCParikh/credit-card-eligibility/blob/main/important_features.png)
+!![Feature Importance](https://github.com/KritiCParikh/credit-card-eligibility/blob/main/important_features.png)
 *Top 20 features influencing credit eligibility*
 
 --
 
-## Key Insights
-
-## 🔍 Insights from Feature Importance
+## Insights from Feature Importance
 
 | Rank | Feature(s)                                 | Insight                                                                 |
 |------|---------------------------------------------|-------------------------------------------------------------------------|
