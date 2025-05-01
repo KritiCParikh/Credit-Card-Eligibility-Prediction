@@ -49,7 +49,7 @@ Files:
 
 ---
 
-## ⚙Model: Random Forest Classifier
+## Model: Random Forest Classifier
 
 > Chosen for its robustness, interpretability, and ability to handle mixed feature types with minimal tuning and time constraints.
 
@@ -65,7 +65,7 @@ Files:
 ![Feature Importance](https://github.com/KritiCParikh/Credit-Card-Eligibility-Prediction/blob/main/important_features.png?raw=true)
 *Top 20 features influencing credit eligibility*
 
---
+---
 
 ## Insights from Feature Importance
 
