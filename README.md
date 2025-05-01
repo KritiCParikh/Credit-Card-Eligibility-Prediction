@@ -62,7 +62,7 @@ Files:
 
 ## Feature Importance
 
-!![Feature Importance](https://github.com/KritiCParikh/credit-card-eligibility/blob/main/important_features.png)
+![Feature Importance](https://github.com/KritiCParikh/credit-card-eligibility/blob/main/important_features.png?raw=true)
 *Top 20 features influencing credit eligibility*
 
 --
